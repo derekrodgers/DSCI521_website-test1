@@ -3,3 +3,9 @@ title: "About"
 ---
 
 About this site
+
+Hello
+
+Some more text
+
+Why it not work
